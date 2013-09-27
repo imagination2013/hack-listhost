@@ -4,7 +4,7 @@ A shiny new tool for collecting email addresses from people for [hack@uchicago](
 
 ### Installation
 
-Git clone this repository if you're c00l. Otherwise download the JAR.
+Git clone this repository if you're c00l. Otherwise download the [standalone JAR](https://github.com/zuwiki/hack-listhost/releases/download/v0.1.0/hack-listhost-0.1.0-standalone.jar).
 
 ### Usage
 
