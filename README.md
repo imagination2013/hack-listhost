@@ -1,6 +1,6 @@
 # hack-listhost
 
-A shiny new tool for collecting email addresses from people for [hack@uchicago](http://hack.uchicago.edu/). (Okay, so I was really bored tonight and wanted to learn a teensy bit of probably-non-idiomatic Clojure.)
+A shiny new tool for collecting email addresses from people for [hack@uchicago](http://hack.uchicago.edu/) and UChicago's [ACM chapter](http://acm.cs.uchicago.edu/). (Okay, so I was really bored tonight and wanted to learn a teensy bit of probably-non-idiomatic Clojure.)
 
 ### Installation
 
